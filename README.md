@@ -18,7 +18,7 @@ Project title: Metric Conversion.
         Le Phat Thinh (1lephatthinh@gmail.com) Student1275054
 ====================================
 
-eProject documentation at:https://nguyenhongphuc1308.github.io/eProject_1_group2/documentation
+eProject documentation at:https://nguyenhongphuc1308.github.io/eProject_1_group2/tree/master/documentation
 
 ====================================
 
