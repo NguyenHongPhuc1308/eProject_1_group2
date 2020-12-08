@@ -22,7 +22,7 @@ eProject documentation at:
 
 ====================================
 
-eProject published at : 
+eProject published at : https://nguyenhongphuc1308.github.io/eProject_1_group2/
 
 ============================
 
