@@ -13,9 +13,9 @@ Project title: Metric Conversion.
 
         Nguyen Hong Phuc (www.phucminhnhut@gmail.com) Student1273011
 
-        Nguyen Huu loc (nguyenhuuloc06112001@gmail.com) Student1275084 
+        Nguyen Huu loc (nguyenhuuloc06112001@gmail.com) Student1275054
          
-        Le Phat Thinh (1lephatthinh@gmail.com) Student1275054
+        Le Phat Thinh (1lephatthinh@gmail.com) Student1275084
 ====================================
 
 eProject documentation at:https://github.com/NguyenHongPhuc1308/eProject_1_group2/tree/main/documentation
